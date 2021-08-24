@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quantfolio-intro-build/static/css/main.66bf17a1.chunk.css",
+    "main.js": "/quantfolio-intro-build/static/js/main.3035d815.chunk.js",
+    "main.js.map": "/quantfolio-intro-build/static/js/main.3035d815.chunk.js.map",
+    "runtime-main.js": "/quantfolio-intro-build/static/js/runtime-main.0dd066b3.js",
+    "runtime-main.js.map": "/quantfolio-intro-build/static/js/runtime-main.0dd066b3.js.map",
+    "static/js/2.fddf7789.chunk.js": "/quantfolio-intro-build/static/js/2.fddf7789.chunk.js",
+    "static/js/2.fddf7789.chunk.js.map": "/quantfolio-intro-build/static/js/2.fddf7789.chunk.js.map",
+    "static/js/3.de65e963.chunk.js": "/quantfolio-intro-build/static/js/3.de65e963.chunk.js",
+    "static/js/3.de65e963.chunk.js.map": "/quantfolio-intro-build/static/js/3.de65e963.chunk.js.map",
+    "index.html": "/quantfolio-intro-build/index.html",
+    "static/css/main.66bf17a1.chunk.css.map": "/quantfolio-intro-build/static/css/main.66bf17a1.chunk.css.map",
+    "static/js/2.fddf7789.chunk.js.LICENSE.txt": "/quantfolio-intro-build/static/js/2.fddf7789.chunk.js.LICENSE.txt",
+    "static/media/logo-bright.1ab74d6b.png": "/quantfolio-intro-build/static/media/logo-bright.1ab74d6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd066b3.js",
+    "static/js/2.fddf7789.chunk.js",
+    "static/css/main.66bf17a1.chunk.css",
+    "static/js/main.3035d815.chunk.js"
+  ]
+}
